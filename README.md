@@ -10,7 +10,7 @@ This code can be used to
 1. evaluate sentences/captions for any dataset,
 2. it provides BLEU, METEOR, ROUGE-L and CIDEr scores.
 
-This is written as a wrapper around the MSCOCO caption evaluation code \[2\].
+This uses the MSCOCO caption evaluation code \[2\].
 
 ### Getting started
 
@@ -42,3 +42,18 @@ to the [COCO Caption Evaluation page](https://github.com/tylin/coco-caption).
     python run_evaluations.py -i data/predicted_sentences.txt -r data/references.json
 ```
 
+### References
+
+\[1\] [Sequence to Sequence - Video to Text](https://vsubhashini.github.io/s2vt.html)
+
+    Sequence to Sequence - Video to Text
+    S. Venugopalan, M. Rohrbach, J. Donahue, T. Darrell, R. Mooney, K. Saenko
+    The IEEE International Conference on Computer Vision (ICCV) 2015
+
+\[2\] [Microsoft COCO Captions: Data Collection and Evaluation Server](https://github.com/tylin/coco-caption)
+
+    Microsoft COCO Captions: Data Collection and Evaluation Server
+    X. Chen, H. Fang, T.Y. Lin, R. Vedantam, S. Gupta, P. Dollar, C.L. Zitnick
+    arXiv preprint arXiv:1504.00325
+
+If you use this in your work please remember to acknowledge the original papers for BLEU, METEOR, ROUGE and CIDEr.
