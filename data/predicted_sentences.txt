@@ -1,0 +1,100 @@
+beam_size_1	vid1236	A panda is walking.
+beam_size_1	vid1237	A man is riding a bicycle.
+beam_size_1	vid1234	A man is mixing ingredients in a bowl.
+beam_size_1	vid1235	A man is putting a tomato on a tortilla.
+beam_size_1	vid1232	A man is riding a scooter.
+beam_size_1	vid1233	A woman is riding a horse.
+beam_size_1	vid1230	A man is playing a guitar.
+beam_size_1	vid1231	A dog is playing with a dog.
+beam_size_1	vid1238	A man is playing the flute.
+beam_size_1	vid1239	A man is talking to a woman s hair.
+beam_size_1	vid1243	A man is drinking a soda.
+beam_size_1	vid1242	A man is sewing a sewing machine.
+beam_size_1	vid1241	A panda is cleaning itself.
+beam_size_1	vid1240	A man is talking to a woman.
+beam_size_1	vid1247	A man is riding a bicycle.
+beam_size_1	vid1246	A man is cutting a potato.
+beam_size_1	vid1245	A man is drinking a piece of water.
+beam_size_1	vid1244	A man is playing a flute.
+beam_size_1	vid1249	A white kitten is eating a piece of food.
+beam_size_1	vid1248	Three boys are dancing.
+beam_size_1	vid1250	A man is playing a violin.
+beam_size_1	vid1251	A man is watching television.
+beam_size_1	vid1252	A small animal is playing.
+beam_size_1	vid1253	A man is playing a keyboard.
+beam_size_1	vid1254	A man is speaking.
+beam_size_1	vid1255	A man is riding a horse.
+beam_size_1	vid1256	A man is playing a drum.
+beam_size_1	vid1257	A small white dog is barking.
+beam_size_1	vid1258	A man is playing a drum.
+beam_size_1	vid1259	A group of people are dancing.
+beam_size_1	vid1269	A man is putting a unk.
+beam_size_1	vid1268	A man is making a phone call.
+beam_size_1	vid1300	A cat is playing with a toy.
+beam_size_1	vid1265	A baby is playing with a toy.
+beam_size_1	vid1264	A monkey is walking in a field.
+beam_size_1	vid1267	A cat is riding a skateboard.
+beam_size_1	vid1266	A man is jumping into the water.
+beam_size_1	vid1261	A man is preparing some food.
+beam_size_1	vid1260	A man is playing a violin.
+beam_size_1	vid1263	A woman is talking with a gun.
+beam_size_1	vid1262	A man is putting a car.
+beam_size_1	vid1209	A group of people are walking.
+beam_size_1	vid1208	A man and a woman are talking to each other.
+beam_size_1	vid1207	A cat is watching.
+beam_size_1	vid1206	A man is playing a guitar.
+beam_size_1	vid1205	A man is playing football.
+beam_size_1	vid1204	A man is cutting a potato.
+beam_size_1	vid1203	A woman is talking on a man.
+beam_size_1	vid1202	A man is slicing a potato.
+beam_size_1	vid1201	A man is putting chicken into a plastic bag.
+beam_size_1	vid1287	A man is cutting a knife.
+beam_size_1	vid1286	A man is putting a box of food.
+beam_size_1	vid1285	A baby is walking.
+beam_size_1	vid1284	A man is cooking.
+beam_size_1	vid1283	A man is talking.
+beam_size_1	vid1282	A man is mixing flour in a bowl.
+beam_size_1	vid1281	A boy is riding a bicycle.
+beam_size_1	vid1280	A man is throwing a knife.
+beam_size_1	vid1289	A man is cutting a pizza.
+beam_size_1	vid1288	A man is peeling a potato.
+beam_size_1	vid1278	A dog is riding a skateboard.
+beam_size_1	vid1279	A man is cutting a knife.
+beam_size_1	vid1272	A man is putting a bowl of vanilla powder in a bowl of water.
+beam_size_1	vid1273	A man is putting some food into a bowl of rice.
+beam_size_1	vid1270	A man is shooting with a gun.
+beam_size_1	vid1271	A man is putting a bowl of food in a bowl of water.
+beam_size_1	vid1276	A unk is moving.
+beam_size_1	vid1277	A man is riding a scooter.
+beam_size_1	vid1274	A man is slicing a potato.
+beam_size_1	vid1275	A woman is playing a flute.
+beam_size_1	vid1218	A man is mixing a bowl of food.
+beam_size_1	vid1219	A man is taking a small rat.
+beam_size_1	vid1214	A lion is walking.
+beam_size_1	vid1215	A cat is playing with a dog.
+beam_size_1	vid1216	A woman is putting on makeup.
+beam_size_1	vid1217	A group of people are playing a music.
+beam_size_1	vid1210	A boy is playing with a football.
+beam_size_1	vid1211	A man is shooting with a gun.
+beam_size_1	vid1212	A woman is washing her hands.
+beam_size_1	vid1213	A man is talking on the phone.
+beam_size_1	vid1294	A man is making a dish.
+beam_size_1	vid1295	A man is playing.
+beam_size_1	vid1296	A polar bear is walking.
+beam_size_1	vid1297	A man is playing a flute.
+beam_size_1	vid1290	A baby is laughing.
+beam_size_1	vid1291	A man is doing a unk.
+beam_size_1	vid1292	A dog is playing with a ball.
+beam_size_1	vid1293	A man is walking.
+beam_size_1	vid1298	A man is talking.
+beam_size_1	vid1299	A woman is cutting a fish.
+beam_size_1	vid1229	A boy is playing a piano.
+beam_size_1	vid1228	A cat is playing with a ball.
+beam_size_1	vid1221	A man is putting a stick of water.
+beam_size_1	vid1220	A man is making a spoon.
+beam_size_1	vid1223	A man is cutting a vegetable.
+beam_size_1	vid1222	A man is slicing a bread.
+beam_size_1	vid1225	A man is running.
+beam_size_1	vid1224	A group of people are dancing.
+beam_size_1	vid1227	A woman is cutting a vegetable.
+beam_size_1	vid1226	A man is using a woman on a chair.
