@@ -16,6 +16,11 @@ to the [COCO Caption Evaluation page](https://github.com/tylin/coco-caption).
 
 ### Evaluating predicted sentences against groundtruth references
 
+**Make sure you have the coco scripts**
+```
+    ./get_coco_scripts.sh
+```
+
 **Create your groundtruth references in the desired format**
 
 `data/references.txt` is a sample file with several reference sentences.
