@@ -30,19 +30,31 @@ to the [COCO Caption Evaluation page](https://github.com/tylin/coco-caption).
 
 **Create your groundtruth references in the desired format**
 
-`data/references.txt` is a sample file with several reference sentences.
+Here's a sample file with several reference sentences: `data/references.txt`
 ```
     python create_json_references.py -i data/references.txt -o data/references.json
 ```
 
 **Evaluate the model predictions against the references**
 
-`data/predicted_sentences.txt` is a sample file with predictions from a model.
+Sample file with predictions from a model is in `data/predicted_sentences.txt`
 ```
     python run_evaluations.py -i data/predicted_sentences.txt -r data/references.json
 ```
 
 ### References
+
+- [Sequence to Sequence - Video to Text](http://arxiv.org/abs/1505.00487)
+- [Microsoft COCO Captions: Data Collection and Evaluation Server](http://arxiv.org/abs/1504.00325)
+- PTBTokenizer: We use the [Stanford Tokenizer](http://nlp.stanford.edu/software/tokenizer.shtml) which is included in [Stanford CoreNLP 
+3.4.1](http://nlp.stanford.edu/software/corenlp.shtml).
+- BLEU: [BLEU: a Method for Automatic Evaluation of Machine Translation](http://www.aclweb.org/anthology/P02-1040.pdf)
+- Meteor: [Project page](http://www.cs.cmu.edu/~alavie/METEOR/) with related publications. We use the latest version (1.5) of the 
+[Code](https://github.com/mjdenkowski/meteor). Changes have been made to the source code to properly aggreate the statistics for the entire 
+corpus.
+- Rouge-L: [ROUGE: A Package for Automatic Evaluation of Summaries](http://anthology.aclweb.org/W/W04/W04-1013.pdf)
+- CIDEr: [CIDEr: Consensus-based Image Description Evaluation] (http://arxiv.org/pdf/1411.5726.pdf)
+
 
 \[1\] [Sequence to Sequence - Video to Text](https://vsubhashini.github.io/s2vt.html)
 
@@ -55,5 +67,3 @@ to the [COCO Caption Evaluation page](https://github.com/tylin/coco-caption).
     Microsoft COCO Captions: Data Collection and Evaluation Server
     X. Chen, H. Fang, T.Y. Lin, R. Vedantam, S. Gupta, P. Dollar, C.L. Zitnick
     arXiv preprint arXiv:1504.00325
-
-If you use this in your work please remember to acknowledge the original papers for BLEU, METEOR, ROUGE and CIDEr.
