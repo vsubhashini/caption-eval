@@ -5,6 +5,11 @@ Sentence/Caption evaluation using automated metrics.
 This code is released as supplementary material with
 [S2VT](https://vsubhashini.github.io/s2vt.html)\[1\].
 
+This code can be used to
+1. evaluate sentences/captions for any dataset,
+2. it provides BLEU, METEOR, ROUGE-L and CIDEr scores.
+This is written as a wrapper around the MSCOCO caption evaluation code \[2\].
+
 ### Getting started
 
 1. **Get this code.** `git clone https://github.com/vsubhashini/caption-eval.git`
